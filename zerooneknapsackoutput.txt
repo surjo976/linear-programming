@@ -1,0 +1,41 @@
+Enter The Total Number Of Item : 4
+Enter The Maximum Capacity Of Knapsack : 5
+
+Enter  Item Name : 1
+Enter  Item Weight : 2
+Enter  Item Value : 3
+
+Enter  Item Name : 2
+Enter  Item Weight : 3
+Enter  Item Value : 4
+
+Enter  Item Name : 3
+4
+5
+Enter  Item Weight : Enter  Item Value : 
+Enter  Item Name : 4
+Enter  Item Weight : 5
+Enter  Item Value : 6
+
+
+===================================================
+
+===================== Solution =====================
+
+===================================================
+
+
+Maximum value of knapsack 7.0
+
+
+The Solution  is : 
+
+0.0  |  0.0  |  0.0  |  0.0  |  0.0  |  0.0  |  
+0.0  |  0.0  |  3.0  |  3.0  |  3.0  |  3.0  |  
+0.0  |  0.0  |  3.0  |  4.0  |  4.0  |  7.0  |  
+0.0  |  0.0  |  3.0  |  4.0  |  5.0  |  7.0  |  
+0.0  |  0.0  |  3.0  |  4.0  |  5.0  |  7.0  |  
+
+
+
+Items are Taken : 2    1 
