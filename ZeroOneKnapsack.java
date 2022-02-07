@@ -1,4 +1,4 @@
-//302_6A_Tonmay Sen
+
 //Zero one Knapsack problem
 package ZeroOneKnapsackProblem;
 import java.util.*;
