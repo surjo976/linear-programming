@@ -1,4 +1,4 @@
-//302_5A_Tonmay Sen
+
 #include<bits/stdc++.h>
 using namespace std;
 struct item
